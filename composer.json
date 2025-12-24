@@ -12,6 +12,7 @@
     ],
     "require": {
         "php": "^8.4",
+        "aws/aws-sdk-php": "^3.369.2",
         "danharrin/livewire-rate-limiting": "^2.1.0",
         "doctrine/dbal": "^4.3.0",
         "guzzlehttp/guzzle": "^7.9.3",
