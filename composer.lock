@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "423b7d10901b9f31c926d536ff163a22",
+    "content-hash": "9a52af4c9debd5d6465d59fbb42b75ab",
     "packages": [
         {
             "name": "amphp/amp",
@@ -6106,20 +6106,20 @@
         },
         {
             "name": "poliander/cron",
-            "version": "3.2.1",
+            "version": "3.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/poliander/cron.git",
-                "reference": "68baf899189d0a68611b9575fc62642144877d80"
+                "reference": "8b6fc91b86de3d973f6ea16eda846f522ed1ce7a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/poliander/cron/zipball/68baf899189d0a68611b9575fc62642144877d80",
-                "reference": "68baf899189d0a68611b9575fc62642144877d80",
+                "url": "https://api.github.com/repos/poliander/cron/zipball/8b6fc91b86de3d973f6ea16eda846f522ed1ce7a",
+                "reference": "8b6fc91b86de3d973f6ea16eda846f522ed1ce7a",
                 "shasum": ""
             },
             "require": {
-                "php": "8.2.* || 8.3.* || 8.4.*"
+                "php": "8.3.* || 8.4.* || 8.5.*"
             },
             "require-dev": {
                 "phpunit/phpunit": "~11.0"
@@ -6144,9 +6144,9 @@
             "homepage": "https://github.com/poliander/cron",
             "support": {
                 "issues": "https://github.com/poliander/cron/issues",
-                "source": "https://github.com/poliander/cron/tree/3.2.1"
+                "source": "https://github.com/poliander/cron/tree/3.3.1"
             },
-            "time": "2024-12-21T05:57:05+00:00"
+            "time": "2026-03-05T19:37:26+00:00"
         },
         {
             "name": "pragmarx/google2fa",
@@ -16194,5 +16194,5 @@
         "php": "^8.4"
     },
     "platform-dev": {},
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.9.0"
 }
