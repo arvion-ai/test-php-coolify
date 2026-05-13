@@ -20,7 +20,7 @@
         "laravel/horizon": "^5.33.1",
         "laravel/pail": "^1.2.3",
         "laravel/prompts": "^0.3.6|^0.3.6|^0.3.6",
-        "laravel/sanctum": "^4.1.2",
+        "laravel/sanctum": "^v4.3.2",
         "laravel/socialite": "^5.21.0",
         "laravel/tinker": "^2.10.1",
         "laravel/ui": "^4.6.1",
