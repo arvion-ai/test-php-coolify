@@ -37,7 +37,7 @@
         "purplepixie/phpdns": "^2.2",
         "pusher/pusher-php-server": "^7.2.7",
         "resend/resend-laravel": "^0.20.0",
-        "sentry/sentry-laravel": "^4.15.1",
+        "sentry/sentry-laravel": "^4.25.1",
         "socialiteproviders/authentik": "^5.2",
         "socialiteproviders/clerk": "^5.0",
         "socialiteproviders/discord": "^4.2",
