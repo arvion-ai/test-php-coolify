@@ -13,7 +13,7 @@
     "require": {
         "php": "^8.4",
         "danharrin/livewire-rate-limiting": "^2.1.0",
-        "doctrine/dbal": "^4.3.0",
+        "doctrine/dbal": "^4.4.3",
         "guzzlehttp/guzzle": "^7.9.3",
         "laravel/fortify": "^1.27.0",
         "laravel/framework": "^12.20.0",
